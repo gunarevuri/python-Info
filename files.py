@@ -33,6 +33,7 @@ file.seek(0)
 with open("file.txt") as file:
 	print(file.read())
 
+  
 
 import json
 # JSON
